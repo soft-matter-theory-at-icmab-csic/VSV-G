@@ -1,5 +1,5 @@
 read
-  mol pqr step1_pdbreader.pqr
+  mol pqr VSV-G.pqr
 end
 elec
   mg-auto
