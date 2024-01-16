@@ -13,4 +13,6 @@ APBS calculation of the VSV-G trimer:
 
 Molecular Dynamics of the VSV-G monomer and heparin:
 
--system.pdb and system.psf
+- solvate.pdb: Initial configuration for the MD simulation reported in the main paper.
+   
+- solvate.psf: PSF file.
