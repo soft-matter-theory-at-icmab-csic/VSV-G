@@ -4,6 +4,8 @@ Simulation data corresponding to the electrostatic calculations and molecular si
 
 Miquel Castellote-Borrell, Marc Domingo, Francesca Merlina, Huixia Lu, Salut Colell, Mireia Bachiller, Manel Juan, Sonia Guedan, Jordi Faraudo*, Judith Guasch* "Lymph-Node Inspired Hydrogels Enhance CAR Expression and Proliferation of CAR T Cells" [ACS Appl. Mater. Interfaces 2025, 17, 11, 16548–16560](https://pubs.acs.org/doi/full/10.1021/acsami.4c19942)
 
+A description of the results for the general public and news release is available [here](https://icmab.es/lymph-node-inspired-hydrogels-boost-car-t-cell-production-and-function)
+
 The data corresponds to the calculation of the interaction between the VSV-G protein and the heparin component of the hydrogel.
 
 Electrostatic calculations: APBS calculation of the VSV-G trimer:
