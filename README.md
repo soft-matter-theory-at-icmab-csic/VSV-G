@@ -1,7 +1,6 @@
 # VSV-G
-Interaction of VSV-G protein and heparin
-
-
+Interaction of VSV-G protein and heparin as reported in our publication: 
+Miquel Castellote-Borrell, Marc Domingo, Francesca Merlina, Huixia Lu, Salut Colell, Mireia Bachiller, Manel Juan, Sonia Guedan, Jordi Faraudo*, Judith Guasch* "Lymph-Node Inspired Hydrogels Enhance CAR Expression and Proliferation of CAR T Cells" [ACS Appl. Mater. Interfaces 2025, 17, 11, 16548–16560](https://pubs.acs.org/doi/full/10.1021/acsami.4c19942)
 
 APBS calculation of the VSV-G trimer:
 
